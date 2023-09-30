@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hey everyone, I'm <b>[Emma Ngo](https://bunhere.com)</b> <br>
+👋 Hey everyone, I'm <b>[Duc Luu]</b> <br>
 <b>✨Fullstack AI Developer✨</b>
 - <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [/in/duc-luu-4787ab1b8/](https://www.linkedin.com/in/duc-luu-4787ab1b8/) 
 - <img align="center" src="./images/icon/mail.webp" title = "Twitter" alt="" height="20" /> ducluu2201@gmail.com
