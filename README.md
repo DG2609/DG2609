@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dg2609&label=Profile%20views&color=0e75b6&style=flat" alt="dg2609" /> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dg2609&show_icons=true&locale=en&layout=compact" alt="dg2609" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg2609&show_icons=true&locale=en" alt="dg2609" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dg2609&" alt="dg2609" /></p>
