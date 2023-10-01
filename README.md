@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dg2609&label=Profile%20views&color=0e75b6&style=flat" alt="dg2609" /> </p>
 
+🚀 * 🚀 * 🚀
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg2609&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="dg2609" /></p>
+
+🚀 * 🚀 * 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DG2609&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
