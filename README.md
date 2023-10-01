@@ -5,4 +5,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg2609&show_icons=true&locale=en" alt="dg2609" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dg2609&" alt="dg2609" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DG2609&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+🚀 * 🚀 * 🚀
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DG2609&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
