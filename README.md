@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Duc Luu</h1>
-<h3 align="left">🧠 I am an AI engineer with over 2 years of experience. My passion lies in developing cutting-edge AI solutions and pushing the boundaries of technology.</h3>
+<h3 align="left">🧠 I am an AI engineer with over 3 years of experience. My passion lies in developing cutting-edge AI solutions and pushing the boundaries of technology.</h3>
 
 
 
