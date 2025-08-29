@@ -3,12 +3,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DG2609&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
-🚀 * 🚀 * 🚀
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg2609&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="dg2609" /></p>
 
 🚀 * 🚀 * 🚀
 
